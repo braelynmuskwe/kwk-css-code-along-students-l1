@@ -1,1 +1,11 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: #E86457;
+  font-size: 150%;
+}
+
+.braeExampleClass {
+  
+  font-size: 100%;
+}
